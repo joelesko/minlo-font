@@ -38,7 +38,7 @@ Only WOFF2 is included, as all modern browsers support it.
 }
 
 pre, code {
-    font-family: minlo;
+    font-family: minlo, monospace;
 }
 
 ```
